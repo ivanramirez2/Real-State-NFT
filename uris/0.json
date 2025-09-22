@@ -1,0 +1,23 @@
+{
+  "name": "Property #1 - City Loft",
+  "description": "Modern loft apartment in Madrid.",
+  "image": "ipfs://bafybeidajglhivhtz5ql5gqy2lemhec6xvr6r6yz3la3b6rjbzebmniwpu",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Madrid"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1000 m2"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Loft"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": "0"
+    }
+  ]
+}

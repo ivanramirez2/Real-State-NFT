@@ -1,0 +1,23 @@
+{
+  "name": "Property #2 - City Loft",
+  "description": "Modern loft apartment in Valencia.",
+  "image": "ipfs://bafkreibxtql6iufoyuaztfppxpgpxh5ho4axrlz44td6q2xiynvmvfubam",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Valencia"
+    },
+    {
+      "trait_type": "Size",
+      "value": "80 m2"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Loft"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": "1"
+    }
+  ]
+}
